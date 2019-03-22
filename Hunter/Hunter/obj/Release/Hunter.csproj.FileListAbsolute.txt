@@ -1,0 +1,10 @@
+G:\Program\Hunter\Hunter\Hunter\bin\Release\Hunter.exe.config
+G:\Program\Hunter\Hunter\Hunter\bin\Release\Hunter.exe
+G:\Program\Hunter\Hunter\Hunter\bin\Release\Hunter.pdb
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.csprojAssemblyReference.cache
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.Form1.resources
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.Properties.Resources.resources
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.csproj.GenerateResource.cache
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.csproj.CoreCompileInputs.cache
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.exe
+G:\Program\Hunter\Hunter\Hunter\obj\Release\Hunter.pdb

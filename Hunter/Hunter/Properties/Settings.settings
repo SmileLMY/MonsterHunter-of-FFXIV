@@ -1,0 +1,432 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hunter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="护土精灵" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="护土精灵CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3900</Value>
+    </Setting>
+    <Setting Name="丑男子沃迦加" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="丑男子沃迦加CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="伽洛克" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="伽洛克CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2460</Value>
+    </Setting>
+    <Setting Name="魔导地狱爪" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="魔导地狱爪CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="火愤牛" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="火愤牛CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3900</Value>
+    </Setting>
+    <Setting Name="纳恩" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="纳恩CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="咕尔呱洛斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="咕尔呱洛斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4480</Value>
+    </Setting>
+    <Setting Name="乌克提希" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="乌克提希CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="牛头黑神" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="牛头黑神CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3900</Value>
+    </Setting>
+    <Setting Name="角祖" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="角祖CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="南迪" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="南迪CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2820</Value>
+    </Setting>
+    <Setting Name="玛贝利" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="玛贝利CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">230</Value>
+    </Setting>
+    <Setting Name="乌尔伽鲁" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="乌尔伽鲁CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3960</Value>
+    </Setting>
+    <Setting Name="千眼凝胶" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="千眼凝胶CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="夺心魔" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="夺心魔CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4480</Value>
+    </Setting>
+    <Setting Name="盖得" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="盖得CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="千竿口花希达" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="千竿口花希达CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3480</Value>
+    </Setting>
+    <Setting Name="尾宿蛛蝎" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="尾宿蛛蝎CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">225</Value>
+    </Setting>
+    <Setting Name="雷德罗巨蛇" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="雷德罗巨蛇CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2520</Value>
+    </Setting>
+    <Setting Name="弗内乌斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="弗内乌斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="巴拉乌尔" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="巴拉乌尔CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3960</Value>
+    </Setting>
+    <Setting Name="玛赫斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="玛赫斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="虚无探索者" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="虚无探索者CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3480</Value>
+    </Setting>
+    <Setting Name="阿列刻特利昂" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="阿列刻特利昂CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="努纽努维" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="努纽努维CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2640</Value>
+    </Setting>
+    <Setting Name="札尼戈" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="札尼戈CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="蚓螈巨虫" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="蚓螈巨虫CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3480</Value>
+    </Setting>
+    <Setting Name="菲兰德的遗火" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="菲兰德的遗火CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="布隆特斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="布隆特斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3840</Value>
+    </Setting>
+    <Setting Name="花舞仙人刺" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="花舞仙人刺CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="萨法特" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="萨法特CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3600</Value>
+    </Setting>
+    <Setting Name="马拉克" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="马拉克CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="阿格里帕" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="阿格里帕CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3600</Value>
+    </Setting>
+    <Setting Name="库雷亚" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="库雷亚CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="ACD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="fourSCD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="凯撒贝希摩斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="神穆尔鸟" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="苍白骑士" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="刚德瑞瓦" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="极乐鸟" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="卢克洛塔" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="米勒卡" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="卢芭" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="双足飞龙之王" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="派拉斯特暴龙" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="斯特拉斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="机工兵斯利普金克斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="布涅" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="阿伽托斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="西斯尤" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="恩克拉多斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="坎帕提" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="恶臭狂花" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="优昙婆罗花" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="爬骨怪龙" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="盐和光" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="巨大鳐" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="兀鲁忽乃朝鲁" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="伽马" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="女王蜂" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="奥迦斯" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="熔骨炎蝎" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="弗克施泰因" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="马希沙" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="泛光晶体" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="船幽灵" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="鬼观梦" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="硕姆" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="基里麦卡拉" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="安迦达" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="象魔修罗" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="卢克洛塔CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5520</Value>
+    </Setting>
+    <Setting Name="神穆尔鸟CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5520</Value>
+    </Setting>
+    <Setting Name="刚德瑞瓦CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5340</Value>
+    </Setting>
+    <Setting Name="凯撒贝希摩斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="极乐鸟CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="苍白骑士CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="米勒卡CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="卢芭CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="双足飞龙之王CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="派拉斯特暴龙CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="斯特拉斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="机工兵斯利普金克斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="布涅CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="阿伽托斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="西斯尤CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="恩克拉多斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="坎帕提CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="恶臭狂花CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="优昙婆罗花CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="爬骨怪龙CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="盐和光CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="巨大鳐CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="兀鲁忽乃朝鲁CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="伽马CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5100</Value>
+    </Setting>
+    <Setting Name="女王蜂CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="奥迦斯CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="熔骨炎蝎CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="弗克施泰因CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="马希沙CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="泛光晶体CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="船幽灵CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="鬼观梦CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="硕姆CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="基里麦卡拉CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="安迦达CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="象魔修罗CD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
